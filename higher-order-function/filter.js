@@ -10,14 +10,14 @@ var items = [
 var newItems = [];
 
 for ( var i = 0; i < items.length; i++ ) {
-	if( items[i].rank == 'Ancient 4'){
-		newItems.push(items[i]);
+	if( items[i].rank == 'Ancient 4' ){
+		newItems.push( items[i] );
 	}
 }
-console.log(newItems);
+console.log( newItems );
 
 // Higher Order Function အသုံးပြုပြီး လုပ်နည်း
 // Less Code, Less Bug, Composition
-var newItems = items.filter( (item) => item.rank == 'Ancient 4');
+var newItems = items.filter( (item) => item.rank == 'Ancient 4' );
 
-console.log(newItems);
+console.log( newItems );
