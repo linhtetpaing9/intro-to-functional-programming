@@ -1,0 +1,14 @@
+{
+  "name": "linhtetpaing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/babel-cli/bin/babel-node.js --presets env"
+  },
+  "keywords": [],
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "latest"
+  }
+}

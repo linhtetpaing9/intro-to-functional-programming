@@ -1,0 +1,6 @@
+Lin Htet Paing	watch	40	1
+Lin Htet Paing	personal computer	600	1
+Zwe Htet Paing	drawing book	10	3
+Zwe Htet Paing	smart phone	100	1
+Zayar	laptop	400	1
+Zayar	car	1000	0
