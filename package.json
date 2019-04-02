@@ -9,6 +9,7 @@
   "keywords": [],
   "dependencies": {
     "babel-cli": "^6.26.0",
-    "babel-preset-env": "latest"
+    "babel-preset-env": "latest",
+    "lodash": "^4.17.11"
   }
 }
